@@ -1,6 +1,6 @@
 # CVE
 
-Small collections of CVE I discovered and PoC I wrote.
+A small collection of CVEs and PoCs.
 
 ## Summary
 
